@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "f5f0e0ff-bf66-49b3-9fb5-8a41d66b9bf3",
+    "content-length": "157",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a room with a bed and a desk",
+      "confidence": 0.7544564604759216
+    },
+    "metadata": {
+      "width": 4056,
+      "height": 1788
+    }
+  }
